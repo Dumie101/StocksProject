@@ -1,28 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "/Users/ichirobanskota/Desktop/StocksProject/StocksWebsite/StocksWebsite/StocksWebsite.csproj": {}
+    "C:\\Users\\adane\\projects\\stonkproject\\StocksProject\\StocksWebsite\\StocksWebsite\\StocksWebsite.csproj": {}
   },
   "projects": {
-    "/Users/ichirobanskota/Desktop/StocksProject/StocksWebsite/StocksWebsite/StocksWebsite.csproj": {
+    "C:\\Users\\adane\\projects\\stonkproject\\StocksProject\\StocksWebsite\\StocksWebsite\\StocksWebsite.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/ichirobanskota/Desktop/StocksProject/StocksWebsite/StocksWebsite/StocksWebsite.csproj",
+        "projectUniqueName": "C:\\Users\\adane\\projects\\stonkproject\\StocksProject\\StocksWebsite\\StocksWebsite\\StocksWebsite.csproj",
         "projectName": "StocksWebsite",
-        "projectPath": "/Users/ichirobanskota/Desktop/StocksProject/StocksWebsite/StocksWebsite/StocksWebsite.csproj",
-        "packagesPath": "/Users/ichirobanskota/.nuget/packages/",
-        "outputPath": "/Users/ichirobanskota/Desktop/StocksProject/StocksWebsite/StocksWebsite/obj/",
+        "projectPath": "C:\\Users\\adane\\projects\\stonkproject\\StocksProject\\StocksWebsite\\StocksWebsite\\StocksWebsite.csproj",
+        "packagesPath": "C:\\Users\\adane\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\adane\\projects\\stonkproject\\StocksProject\\StocksWebsite\\StocksWebsite\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "/Users/ichirobanskota/.config/NuGet/NuGet.Config"
+          "C:\\Users\\adane\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -58,7 +57,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.103/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
         }
       }
     }
